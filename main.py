@@ -1,3 +1,5 @@
 
+from functions import load
+
 if __name__ == '__main__':
-    print('hi')
+    load('Dataset')
